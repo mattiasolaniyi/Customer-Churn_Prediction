@@ -1,0 +1,11 @@
+CustomerID,Gender,Age,Subscription_Length,Monthly_Bill,Churn
+1,Male,25,12,50,0
+2,Female,45,24,30,0
+3,Male,34,6,70,1
+4,Female,29,18,40,0
+5,Male,50,36,20,1
+6,Female,40,12,60,0
+7,Male,30,24,90,1
+8,Female,60,48,15,0
+9,Male,22,6,80,1
+10,Female,35,12,55,0
